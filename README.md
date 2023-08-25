@@ -1,2 +1,2 @@
-# Inovact_edtech
+# Notgpt
 This is a Hackathon project.
